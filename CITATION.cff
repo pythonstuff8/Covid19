@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Deep Learning-Based Multi-Class Classification of Chest X-Ray Images for COVID-19 and Pulmonary Disease Detection Using Transfer Learning with InceptionV3"
+authors:
+  - family-names: "Thayyil"
+    given-names: "Suhaan"
+    email: "thayyilsuhaan@gmail.com"
+version: "1.0.0"
+date-released: "2026-03-15"
+url: "https://github.com/thayyilsuhaan/Covid19"
+repository-code: "https://github.com/thayyilsuhaan/Covid19"
+license: MIT
+keywords:
+  - covid-19
+  - chest-x-ray
+  - deep-learning
+  - transfer-learning
+  - inceptionv3
+  - medical-image-classification
+  - convolutional-neural-networks
+  - tensorflow
+abstract: "A deep learning model for multi-class classification of chest X-ray images into five categories (COVID-19, Marila, Normal, Pneumonia, Tuberculosis) using transfer learning from InceptionV3, achieving 96% accuracy with 0.1 loss."

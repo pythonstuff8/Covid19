@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TensorFlow / Model files (large files tracked via Git LFS)
+# *.h5
+# *.tflite
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials (NEVER commit these)
+*credentials*
+*secret*
+*.pem
+*.key
